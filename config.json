@@ -1,6 +1,6 @@
 {
     "appEntryPoint": "/user",
-    "appTitle": "energizer",
+    "appTitle": "hertest",
     "modules": [
         {
             "url": "https://github.com/davisokoth/locations_client_angular.git",
